@@ -26,5 +26,8 @@ A clean, modern, and fully responsive calculator built with HTML5, CSS3, and Van
 📜 License
 This project is open-source and available under the MIT License.
 Enjoy calculating!
-Would you like me to help you create a specific LICENSE file to go along with this README?
+
+![image](https://github.com/khaoukhaou4869-jpg/responsive-Calculator/blob/65147bce2fb756bf51013a327842a9a9b9effd38/2026-06-30%20024656.png)
+![image](https://github.com/khaoukhaou4869-jpg/responsive-Calculator/blob/65147bce2fb756bf51013a327842a9a9b9effd38/2026-06-30%20024725.png)
+
 
